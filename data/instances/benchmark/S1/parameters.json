@@ -1,0 +1,54 @@
+{
+  "scenario": "S1",
+  "n_days": 21,
+  "days_per_week": 7,
+  "weeks": {
+    "1": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "2": [
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "3": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  "model_parameters": {
+    "G_min_rest_hours": 11,
+    "L_max_continuous_hours": 12,
+    "max_hours_in_24h": 12,
+    "max_working_days_in_7": 6,
+    "Gamma_unwanted_difference": 3,
+    "beta_hours_band": 0.1,
+    "Theta_night_difference": 2,
+    "V_excess_budget_share": 0.05,
+    "flexible_requirement_threshold": 3,
+    "night_shift_start_before_hour": 6
+  },
+  "night_shift_ids": [
+    1
+  ],
+  "rho_bar": 0.7431506849315068,
+  "V_excess_budget": 21,
+  "total_requirement": 434,
+  "total_required_hours": 2604.0,
+  "total_contract_hours": 3504.0
+}
