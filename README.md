@@ -1,7 +1,6 @@
-# From optimal to lawful nurse rostering: data
+# Nurse Rostering Data
 
-This repository contains the data of the paper **"From optimal to lawful nurse rostering: a working-time-compliant
-multi-objective model and a comparison of exact, hybrid and learning-based methods"** by Mominul Islam, Md. Mushiur
+This repository contains the data of the paper by Mominul Islam, Md. Mushiur
 Rahman and Md. Limonur Rahman Lingkon (Department of Industrial and Production Engineering, Rajshahi University of
 Engineering and Technology, Rajshahi 6204, Bangladesh). It holds the three benchmark scenarios, the 19 generated
 instances, the definition of the subproblem solved on each generated instance, the starting rosters used in the
